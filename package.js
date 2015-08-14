@@ -2,7 +2,8 @@ Package.describe({
   name: "gwendall:meteoric-styles-extra",
   summary: "Refined styles for Meteoric",
   version: "0.1.0",
-  git: "https://github.com/gwendall/meteoric-styles-extra.git"
+  git: "https://github.com/gwendall/meteoric-styles-extra.git",
+  documentation: null
 });
 
 Package.onUse(function(api) {
